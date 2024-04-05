@@ -2,7 +2,7 @@
   "name": "amplify-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://austinbrown95.github.io/amplify-react-app",
+  "homepage": "https://AustinBrown95/amplify-react-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
