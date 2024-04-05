@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 // Source: https://docs.amplify.aws/react/build-a-backend/restapi/fetch-data/
 import { get } from 'aws-amplify/api';
 import './App.css';
+import { GithubBornOn } from './GithubBornOn';
 
 const App = () => {
     // Create coins variable and set to empty array
@@ -66,6 +67,9 @@ const App = () => {
             </div>
           ))
         }
+        <h3>
+          <GithubBornOn />
+        </h3>
       </div>
     );
   }
