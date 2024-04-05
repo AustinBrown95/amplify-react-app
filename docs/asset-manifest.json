@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amplify-react-app/static/css/main.f855e6bc.css",
+    "main.js": "/amplify-react-app/static/js/main.adb88504.js",
+    "static/js/453.0ddc7102.chunk.js": "/amplify-react-app/static/js/453.0ddc7102.chunk.js",
+    "index.html": "/amplify-react-app/index.html",
+    "main.f855e6bc.css.map": "/amplify-react-app/static/css/main.f855e6bc.css.map",
+    "main.adb88504.js.map": "/amplify-react-app/static/js/main.adb88504.js.map",
+    "453.0ddc7102.chunk.js.map": "/amplify-react-app/static/js/453.0ddc7102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.adb88504.js"
+  ]
+}
